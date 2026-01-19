@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Noémie K.
-- 💞️ I’m interested in Algorithms, UX & UI Design, Pictorial Art, Design, Musique, Movies, Series, Literature, Cooking, Pastry, Martial Arts, Psychology, Philosophy... Well, I'm fundamentally curious and eager to learn and experiment !
-- 🌱 I never stop learning HTML, CSS, Sas, Material UI, Javascript, React, Node.js PHP, Python, Symphony, SQL, Wordpress, Docker...
+👋 Hi, I’m Noémie K.
+💞️ I’m interested in Algorithms, UX & UI Design, Pictorial Art, Design, Musique, Movies, Series, Literature, Cooking, Pastry, Martial Arts, Psychology, Philosophy... Well, I'm fundamentally curious and eager to learn and experiment !
+🌱 I never stop learning HTML, CSS, Sas, Material UI, Javascript, React, Node.js PHP, Python, Symphony, SQL, Wordpress, Docker...
